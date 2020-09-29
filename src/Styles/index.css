@@ -1,0 +1,23 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 30;
+  font-size: 1.4rem;
+  background-color: #FFF;
+}
+
+h1{
+  font-weight: 30;
+  color: black;
+}
+
+h2 {
+  font-weight: 100;
+  color: #191970;
+}
+
+.index {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
